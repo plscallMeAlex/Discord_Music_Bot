@@ -4,8 +4,8 @@ I created this bot because when I use another music bot in Discord there is a li
 
 ## To use this bot ? u need to clone my project and adding your own discord bot token in your .env file
 
-To clone this project.
+To clone this project go to your directory that u want then run this command.
 
 ```bash
-https://github.com/plscallMeAlex/Discord_Music_Bot.git
+git clone https://github.com/plscallMeAlex/Discord_Music_Bot.git
 ```
